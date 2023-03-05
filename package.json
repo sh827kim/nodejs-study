@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "dev": "nodemon src/main.ts"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/node-lts-strictest-esm": "^18.12.1",
+    "@types/node": "^18.14.6",
+    "@typescript-eslint/eslint-plugin": "^5.54.0",
+    "@typescript-eslint/parser": "^5.54.0",
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-node": "^11.1.0",
+    "nodemon": "^2.0.21",
+    "prettier": "^2.8.4",
+    "typescript": "^4.9.5"
+  }
+}
